@@ -1,4 +1,4 @@
-# 🛒 **Shoplift-Tracker**  
+# 🛒 **Shoplift-Patrolr**  
 
 **AI-powered real-time shoplifting detection system using YOLO and OpenCV**  
 

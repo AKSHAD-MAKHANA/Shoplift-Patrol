@@ -27,8 +27,8 @@ Shoplift-Tracker is a computer vision-based system that detects and tracks shopl
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Shoplift-Tracker.git
-   cd Shoplift-Tracker
+   git clone https://github.com/AKSHAD-MAKHANA/Shoplift-Patrol.git
+   cd Shoplift-Patro
    ```
 
 2. **Create and activate a virtual environment**

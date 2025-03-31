@@ -2,6 +2,10 @@
 
 **AI-powered real-time shoplifting detection system using YOLO and OpenCV**  
 
+<p align="center">
+  <img src="HACK LOGO TEAM.jpg" alt="Emotion Analysis" width="300" hight = 100>
+</p>
+
 ---
 
 ## 🚀 **Overview**
